@@ -23,7 +23,7 @@ export default class NavigationBar extends React.Component {
                         <Nav className="navbar-togle">
                             <Link to="/">Home</Link>
                             <Link to="/about">About</Link>
-                            <Link to="/projects">Projects</Link>
+                            <Link to="/project">Projects</Link>
                             <Link to="/contact">Contact</Link>
                         </Nav>
                     </Navbar.Collapse>

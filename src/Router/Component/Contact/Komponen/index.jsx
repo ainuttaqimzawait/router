@@ -2,7 +2,7 @@ const Contact = () => {
     return (
         <div style={{ height: "100vh" }}>
             <div className="about">
-                <h1>ABOUT ME</h1>
+                <h1>CONTACT</h1>
                 <div className="garis">
                     <div></div>
                 </div>
